@@ -31,6 +31,6 @@ As of now, the project is in the early stages of development. The initial focus 
 
 ## Feedback and Contact
 
-I welcome any feedback, suggestions, or questions regarding this project. If you have any inquiries or would like to get in touch, please feel free to reach out to me via email at [your-email@example.com](mailto:your-email@example.com).
+I welcome any feedback, suggestions, or questions regarding this project. If you have any inquiries or would like to get in touch, please feel free to reach out to me via email at [josebenitez-19@hotmail.com](mailto:your-email@example.com).
 
 Thank you for your interest in this recipe page project!
